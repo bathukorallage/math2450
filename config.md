@@ -3,7 +3,7 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def  prepath="math2450"
+@def  prepath="math2450/"
 
 @def website_title = "Franklin Template"
 
